@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Chris, an incoming freshman at Brown University concentrating in Health/Human Biology and Computer Science. I love to play around with data and find answers to questions I develop on my own. The pinned repositories on my profile contain my code from online courses and projects. If you want to learn more about me, check out my LinkedIn page
-[LinkedIn](linkedin.com/in/chris-chae-231a2518a/)
+I'm Chris, an incoming freshman at Brown University concentrating in Health/Human Biology and Computer Science. I love to play around with data and find answers to questions I develop on my own. The pinned repositories on my profile contain my code from online courses and projects. If you want to learn more about me, check out my 
+[LinkedIn](linkedin.com/in/chris-chae-231a2518a/) page.
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
