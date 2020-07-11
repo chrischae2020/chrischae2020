@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chris, an incoming freshman at Brown University concentrating in Health/Human Biology and Computer Science. I love to play around with data and find answers to questions I develop on my own. The pinned repositories on my profile contain my code from online courses and projects. I specialize in python and data analytics. If you want to learn more about me and what I do, check out my 
+I'm Chris, an undergraduate student at Brown University concentrating in Health/Human Biology and Computer Science. I love to play around with data and find answers to questions I develop on my own. The pinned repositories on my profile contain my code from online courses and projects. I specialize in python and data analytics. If you want to learn more about me and what I do, check out my 
 [LinkedIn](linkedin.com/in/chris-chae-231a2518a/) page.
 
 <!--
