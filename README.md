@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chris, an undergraduate student at Brown University with a passion for coding. I love to play around with data and find answers to the questions I develop. The pinned repositories on my profile contain my code from online courses and projects. I specialize in Python, R, and data analytics. If you want to learn more about me and what I do, check out my 
+I'm Chris, an undergraduate student at Brown University with a passion for coding. I love to play around with data and find answers to questions. The pinned repositories on my profile contain my code from online courses and projects. I specialize in data analytics with Python. If you want to learn more about me and what I do, check out my 
 LinkedIn page. (linkedin.com/in/chris-chae-231a2518a/)
 
 <!--
