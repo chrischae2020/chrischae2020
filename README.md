@@ -1,4 +1,4 @@
-Brown University CS undergrad working in Python (Data analytics and Machine Learning) and Java
+Brown University CS undergrad
 
 LinkedIn - linkedin.com/in/chris-chae-231a2518a/
 
