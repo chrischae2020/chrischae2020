@@ -1,5 +1,4 @@
-Hi, I'm Chris
-- 🔭 I’m currently working on working with health data through ML
+Looking for ways to improve health through data since I learned too much through my public health class
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
