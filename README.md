@@ -1,6 +1,5 @@
-Brown University CS undergrad
-
-LinkedIn - linkedin.com/in/chris-chae-231a2518a/
+Hi, I'm Chris
+- 🔭 I’m currently working on working with health data through ML
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
