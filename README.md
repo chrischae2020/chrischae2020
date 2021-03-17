@@ -1,4 +1,4 @@
-Learned too much about the US health care system in class, so looking for ways to improve healthcare through data
+Focus on machine learning and data analytics. Interests in Python, Java, ReactJs, R
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
