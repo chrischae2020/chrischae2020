@@ -1,4 +1,4 @@
-Focus on machine learning and data analytics with health data. Interests in Python, Java, ReactJS, R
+Interest in ML and biological sciences
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
