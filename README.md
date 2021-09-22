@@ -1,4 +1,4 @@
-Interested in the intersection of computing and health and the sciences. 
+Interested in the intersection of computing and health and the sciences.
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
