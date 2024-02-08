@@ -1,4 +1,4 @@
-Hi there! I am a result driven person interested in using Big Data to come up with long-term solutions and insights. Looking for roles in data analysis, proficient in Python, SQL, Java.
+Hi there! I am a result driven person interested in using Big Data to come up with long-term solutions and insights. Proficient in Python, SQL, R
 
 <!--
 **chrischae2020/chrischae2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
